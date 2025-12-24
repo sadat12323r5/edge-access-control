@@ -84,6 +84,7 @@ Key tools used in this project include:
 * CST Microwave Studio for RFID/NFC antenna design
 * KiCad and LTspice for hardware and power electronics
 * FastAPI and PostgreSQL for backend services
+* React (TypeScript) + Vite for the administrative dashboard and monitoring UI
 * GitHub Actions for CI and automated testing
 
 ---
