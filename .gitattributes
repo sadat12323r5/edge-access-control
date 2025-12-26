@@ -1,0 +1,14 @@
+# Force LF for all text files
+* text=auto eol=lf
+
+# Explicitly protect embedded-relevant files
+*.c     text eol=lf
+*.h     text eol=lf
+*.s     text eol=lf
+*.ld    text eol=lf
+*.ioc   text eol=lf
+
+# Binary files (never touch line endings)
+*.bin   binary
+*.elf   binary
+*.hex   binary
